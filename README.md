@@ -6,4 +6,4 @@ En este repositorio voy a empezar un nuevo proyecto dedicandole tiempo a los fra
 
 ⛔​Así que por obvias razones, no me esforzare tanto en el frontend.⛔​
 
-💞️ <------------------------------>Hi, I love the programming! @AquilesR22 <------------------------------>💞​
+💞️ <---------------------------------------->Hi, I love the programming! @AquilesR22 <---------------------------------------->💞​
