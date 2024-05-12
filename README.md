@@ -4,6 +4,6 @@ En este repositorio voy a empezar un nuevo proyecto dedicandole tiempo a los fra
 
 💎​Me encanta mucho estudiar y trabajar del lado del backend preferentemente en servidores y bases de datos💎​ 
 
-⛔​Asi que por obvias razones, no me esforzare tanto en el frontend.⛔​
+⛔​Así que por obvias razones, no me esforzare tanto en el frontend.⛔​
 
 💞️ <------------------------------>Hi, I love the programming! @AquilesR22 <------------------------------>💞​
