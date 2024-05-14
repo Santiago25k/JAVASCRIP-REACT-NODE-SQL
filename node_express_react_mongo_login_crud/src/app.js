@@ -1,11 +1,11 @@
-const express = require("express");
+const express = require('express');
 const app = express();
-const port = 3000;
+const port = 6969;
 
-app.get("/", (req, res) => {
-  res.send("Hello World!");
-});
+app.get('/',(req, res)=>{
+    res.send('Hola a todos!')
+})
 
-app.listen(port, () => {
-  console.log(`Estoy en el http://localhost:${port}`);
-});
+app.listen(port,() => {
+    console.log(`Sevirdor escuchando en el puerto ${port}`);
+})
